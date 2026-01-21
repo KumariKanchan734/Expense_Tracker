@@ -23,10 +23,14 @@ This project helps users record daily expenses, view all expenses, and calculate
 ---
 
 ## Project Structure
+
+'''
 Expense_Tracker/
 │
 ├── main.py # Main Python file containing expense tracker logic
 └── README.md # Project documentation
+
+'''
 
 
 ---
