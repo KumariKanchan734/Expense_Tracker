@@ -49,12 +49,11 @@ python main.py
 ---
 
 ##Menu Options##
-'''
+
 1. Add Expense
 2. View All Expenses
 3. View Total Expense
 4. Exit
-'''
 
 ---
 
